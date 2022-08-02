@@ -1,0 +1,4 @@
+Board = whole shield
+Perpendicular to board: z
+Width: x
+Length: y
